@@ -19,9 +19,3 @@ Sirius Quantum is the quantum data framework for Physical AI — an on-premise q
 ## Open datasets
 
 Machine-learning datasets with labels from exact quantum computation, across quantum chemistry, drug discovery, quantum many-body physics and quantitative finance, on [Hugging Face](https://huggingface.co/SiriusQuantum).
-
-## Learn more
-
-- Website: [siriusquantum.com](https://siriusquantum.com)
-- X: [@SiriusQuantum](https://x.com/SiriusQuantum)
-- Contact: [info@siriusquantum.com](mailto:info@siriusquantum.com)
